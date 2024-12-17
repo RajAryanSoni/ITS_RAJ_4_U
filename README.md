@@ -11,8 +11,8 @@
 ---
 
 ## 🌐 Connect with Me:
-[![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white)](https://github.com/RajAryan2201) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-aryan-123456) 
+[![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white)](https://github.com/RajAryanSoni) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-aryan-soni-b399a224b/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/raj_dev) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-29DB9E?logo=google-chrome&logoColor=white)](https://rajaryan.dev)
 
